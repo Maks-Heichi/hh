@@ -33,7 +33,7 @@
 
 ## Тесты
 
-pytest
+- `pytest`
 
 
 При желании: `python -m flake8`.
